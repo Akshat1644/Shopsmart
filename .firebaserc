@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "small-enterprises",
+    "development": "small-enterprises"
+  },
+  "targets": {},
+  "etags": {}
+}
